@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 12/22/2018 7:24:49 AM-->
+<Tiled2Unity version="1.0.13.2">
+  <AssignMaterial mesh="ExitSprite_mesh_0001" material="tiles" />
+  <Prefab name="ExitSprite" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="2" numTilesWide="2" numTilesHigh="2" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="32" mapHeightInPixels="32" backgroundColor="#808080">
+    <GameObject name="Tile Layer 2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="tiles" x="0" y="0" mesh="ExitSprite_mesh_0001" sortingLayerName="" sortingOrder="1" opacity="1" />
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="ExitSprite_mesh_0001.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ0V4aXRTcHJpdGVfbWVzaF8wMDAxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSAxNikNCnYgMCAtMTYgMA0KdiAtMTYgLTE2IDANCnYgLTE2IDAgMA0KdiAwIDAgMA0KdiAtMTYgLTE2IDANCnYgLTMyIC0xNiAwDQp2IC0zMiAwIDANCnYgLTE2IDAgMA0KdiAwIC0zMiAwDQp2IC0xNiAtMzIgMA0KdiAtMTYgLTE2IDANCnYgMCAtMTYgMA0KdiAtMTYgLTMyIDANCnYgLTMyIC0zMiAwDQp2IC0zMiAtMTYgMA0KdiAtMTYgLTE2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA5KQ0KdnQgMC4wOCAwLjQNCnZ0IDAuMTIgMC40DQp2dCAwLjEyIDAuNDQNCnZ0IDAuMDggMC40NA0KdnQgMC4xNiAwLjQNCnZ0IDAuMTYgMC40NA0KdnQgMC4wOCAwLjM2DQp2dCAwLjEyIDAuMzYNCnZ0IDAuMTYgMC4zNg0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBFeGl0U3ByaXRlX21lc2hfMDAwMQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8yLzEgNi81LzEgNy82LzEgOC8zLzEKZiA5LzcvMSAxMC84LzEgMTEvMi8xIDEyLzEvMQpmIDEzLzgvMSAxNC85LzEgMTUvNS8xIDE2LzIvMQoNCg==</ImportMesh>
+  <InternalTexture assetPath="Assets/2D Pixel Top-Down Dungeon Tileset/Sprites/tiles.png" materialName="tiles" />
+</Tiled2Unity>

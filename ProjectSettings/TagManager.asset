@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - ClosedRoom
+  - Grid
+  - PlayerA*
+  - Collidables
+  - Enemy
+  - ScoreArea
+  - EndGamePanel
+  - HealthBar
+  - MovementStick
+  - ShootingStick
+  - BossHealth
+  - Boss
+  - Doors
+  - EnemySpawnPoint
+  - RoomEvent
+  - DoorsLong
+  - meleeEnemy
+  - rangedEnemy
+  - Loot
+  - DifficultyModifier
+  - TotemFirePoint
+  - LootSpawnPoint
+  - BossSpawnPoint
+  - FK_CircleAttackPoints
+  - FK_AreaAttackPoint
+  - LoadingScreen
+  - HealingBar
+  - HealthText
+  - RoomClearedFire
+  - CharacterSheet
+  - whiteScreen
+  - PortalSpawnPoint
+  - Tiles
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Unwalkable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
